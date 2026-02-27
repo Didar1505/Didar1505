@@ -4,22 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm focused on web development, specializing in backend technologies. I'm passionate about problem-solving and building reliable systems.
+I'm focused on backend web development and building reliable systems that scale.
 
-           🚀 \*\*Current Status:\*\* 
-- Backend Developer - Tech Stack: Golang GIN
+### :rocket: Current Focus
+- Backend Engineer with `Go` and `Gin`
+- Designing clean APIs and production-ready services
 
-     🌐 \*\*On the Web Development Horizon:\*\* 
-- Building scalable and reliable web services 
-- Enthusiastically embracing challenges in backend development 
+### :globe_with_meridians: What I'm Building
+- Scalable web services and resilient architectures
+- Better performance, observability, and maintainability
 
-          🤖 \*\*Tech Enthusiast:\*\*
- - Proficient in GIN, Django, FastAPI, and REST - Always up for a coding challenge and continuous learning
- 
+### :robot: Tech Enthusiast
+- Proficient in `Gin`, `Django`, `FastAPI`, and `REST APIs`
+- Always up for a coding challenge and continuous learning
 
-
-          🔗 \*\*Connect with Me:\*\*
- - Let's connect and share insights on backend development! Looking forward to connecting with fellow developers!
+### :link: Connect with Me
+- Let's connect and share ideas on backend development
 
 * 🌍  Open for remote cooperations
 * ✉️  You can contact me at [didarkamiljanow15@gmail.com](mailto:didarkamiljanow15@gmail.com)
