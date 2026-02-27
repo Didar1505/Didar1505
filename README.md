@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a sophomore student at North Caucasus Federal University, majoring in Information Security. Currently, I'm diving deep into the world of web development, specializing in backend technologies. I'm passionate about problem-solving and love the intricacies of computer science.
+I'm focused on web development, specializing in backend technologies. I'm passionate about problem-solving and building reliable systems.
 
            🚀 \*\*Current Status:\*\* 
 - Backend Developer - Tech Stack: Golang GIN
 
      🌐 \*\*On the Web Development Horizon:\*\* 
-- Exploring new ways to enhance web security 
+- Building scalable and reliable web services 
 - Enthusiastically embracing challenges in backend development 
 
           🤖 \*\*Tech Enthusiast:\*\*
@@ -19,15 +19,15 @@ I'm a sophomore student at North Caucasus Federal University, majoring in Inform
 
 
           🔗 \*\*Connect with Me:\*\*
- - Let's connect and share insights on cybersecurity and backend development! Looking forward to connecting with fellow developers and cybersecurity enthusiasts! 💻✨
+ - Let's connect and share insights on backend development! Looking forward to connecting with fellow developers!
 
-* 🌍  I'm based in Stavropol, RU
+* 🌍  Open for remote cooperations
 * ✉️  You can contact me at [didarkamiljanow15@gmail.com](mailto:didarkamiljanow15@gmail.com)
 <a href="https://t.me/dprogger">
 t.me/dprogger
 * 🧠  I'm learning backend architecture, databases, microservices
 * 🤝  I'm open to collaborating on Everything related to backend
-* ⚡  Learning science
+
 
 ### Skills
 
@@ -48,3 +48,4 @@ t.me/dprogger
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Didar1505" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </p>
+
